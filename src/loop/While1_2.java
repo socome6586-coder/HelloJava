@@ -10,9 +10,9 @@ public class While1_2 {
 			System.out.println("현재 숫자는:" + count);
 		}
 		
-		int a = 2;
-		while (a < 520) {
-			a = a + 3;
+		int private String= 2;
+		while (private String< 520) {
+			private String= private String+ 3;
 			System.out.println("2.현재 숫자는: " + a);
 		}
 		

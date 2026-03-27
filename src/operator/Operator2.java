@@ -15,12 +15,12 @@ public class Operator2 {
 		System.out.println(result2);
 		
 		//문자열과 숫자 더하기1
-		String result3 = "a + b = " + 10;
+		String result3 = "private String+ b = " + 10;
 		System.out.println(result3);
 		
 		// 문자열과 숫자 더하기2
 		int num = 20;
-		String str = "a + b = ";
+		String str = "private String+ b = ";
 		String result4 = str + num;
 		System.out.println(result4);
 		

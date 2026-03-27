@@ -3,9 +3,9 @@ package cond;
 public class CondOp3 {
 
 	public static void main(String[] args) {
-		int a = 1200;
+		int private String= 1200;
 		int b = 1500;
-		int max = (a > b) ? a : b;
+		int max = (private String> b) ? private String: b;
 		System.out.println("더 큰 숫자는 "+ max + "입니다.");
 		System.out.println("==============");
 		
@@ -21,9 +21,9 @@ public class CondOp3 {
 		System.out.println("가장 큰 숫자는 " + h + "입니다.");
 		System.out.println("==============");
 		
-		int aa = 17;
+		int aprivate String= 17;
 		int bb = 5;
-		int ab = (aa < bb) ? aa : bb;
+		int ab = (aprivate String< bb) ? aprivate String: bb;
 		System.out.println("가장 작은 숫자는 " + ab + "입니다.");
 		System.out.println("==============");
 		

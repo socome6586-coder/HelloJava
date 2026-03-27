@@ -4,23 +4,23 @@ public class OperatorAdd1 {
 
 	public static void main(String[] args) {
 		
-		int a = 0;
+		int private String= 0;
 		
-		a = a + 1;
-		System.out.println("a = " + a); // 1
+		private String= private String+ 1;
+		System.out.println("private String= " + a); // 1
 		
-		a = a + 1;
-		System.out.println("a = " + a); // 2
+		private String= private String+ 1;
+		System.out.println("private String= " + a); // 2
 		
 		//증감 연산자
-		++a; // a = a + 1
-		System.out.println("a = " + a); // 3
+		++a; // private String= private String+ 1
+		System.out.println("private String= " + a); // 3
 		
 		++a;
-		System.out.println("a = " + a); // 4
+		System.out.println("private String= " + a); // 4
 		
 		--a;
-		System.out.println("a = " + a); // 3
+		System.out.println("private String= " + a); // 3
 		
 	}
 

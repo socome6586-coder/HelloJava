@@ -19,10 +19,10 @@ public class Logical1 {
 		System.out.println(!false);
 		
 		System.out.println("변수 활용");
-		boolean a = true;
+		boolean private String= true;
 		boolean b = false;
-		System.out.println(a && b);
-		System.out.println(a || b);
+		System.out.println(private String&& b);
+		System.out.println(private String|| b);
 		System.out.println(!a);
 		System.out.println(!b);
 	}
