@@ -1,14 +1,15 @@
 package scope;
 
-public class Scope1 {
+public class Scope2 {
 
 	public static void main(String[] args) {
 		int m = 10;
-		if(true) {
-			int x = 20;
+		for (int i = 0; i < 2; i++) { // 
 			System.out.println(m);
-			System.out.println(x);
-		} // x 생존 종료
+			System.out.println(i);
+		} // i 생존 종료
+		
 		System.out.println(m);
-	} // m 생존 종료
+	}
+
 }
