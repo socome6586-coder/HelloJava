@@ -19,7 +19,11 @@ public class ScannerWhile1 {
 			break;
 		} 
 		System.out.println(sum);
-	}
+	} //-------------------------------------
+	
+		
+		
+		
 		
 		
 	}//main
